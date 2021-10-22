@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>de.simpleworks.staf</groupId>
+		<artifactId>staf-parent</artifactId>
+		<version>0.0</version>
+	</parent>
+
+	<artifactId>json-reporter-module</artifactId> 
+	<name>json-reporter-module</name>
+
+	<properties>
+		<project.version>0.0</project.version>
+		<version.gson>2.8.2</version.gson>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>${version.gson}</version>
+		</dependency>
+		<!--START STAF Dependencies -->
+		<dependency>
+			<groupId>de.simpleworks.staf</groupId>
+			<artifactId>commons</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>de.simpleworks.staf</groupId>
+			<artifactId>framework</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!--END STAF Dependencies -->
+	</dependencies>
+</project>
