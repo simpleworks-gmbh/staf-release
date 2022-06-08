@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.simpleworks.staf</groupId>
+  <artifactId>jira-module</artifactId>
+  <versioning>
+    <release>0.110.13</release>
+    <versions>
+      <version>0.110.13</version>
+    </versions>
+    <lastUpdated>20220608091257</lastUpdated>
+  </versioning>
+</metadata>
