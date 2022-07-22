@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.simpleworks.staf</groupId>
+  <artifactId>staf-parent</artifactId>
+  <versioning>
+    <release>0.130-beta</release>
+    <versions>
+      <version>0.130-beta</version>
+    </versions>
+    <lastUpdated>20220722224231</lastUpdated>
+  </versioning>
+</metadata>
