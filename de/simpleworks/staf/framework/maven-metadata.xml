@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.simpleworks.staf</groupId>
+  <artifactId>framework</artifactId>
+  <versioning>
+    <release>0.120.18</release>
+    <versions>
+      <version>0.120.18</version>
+    </versions>
+    <lastUpdated>20220728153550</lastUpdated>
+  </versioning>
+</metadata>
