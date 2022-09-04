@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>msteams-maven-plugin</name>
+      <prefix>msteams</prefix>
+      <artifactId>msteams-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
