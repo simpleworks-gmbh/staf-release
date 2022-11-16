@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.simpleworks.staf</groupId>
+  <artifactId>testflo-maven-plugin</artifactId>
+  <versioning>
+    <latest>0.130.20</latest>
+    <release>0.130.20</release>
+    <versions>
+      <version>0.130.20</version>
+    </versions>
+    <lastUpdated>20221116181221</lastUpdated>
+  </versioning>
+</metadata>
